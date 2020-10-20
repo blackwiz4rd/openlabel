@@ -3,13 +3,11 @@ title: Dreams
 subtitle: Website Design
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+date: 2020-10-21
+img: https://static.wixstatic.com/media/471a7c_f0363f6c93df4f55a6eb8367b4aafd96~mv2.gif
+thumbnail: https://static.wixstatic.com/media/471a7c_f0363f6c93df4f55a6eb8367b4aafd96~mv2.gif
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: October 2020
+category: Prodotto
+description: La nostra etichetta aggiorna il suo prezzo al variare della curva di acquisto degli utenti. I prezzi possono variare ed essere ridotti per evitare che la merce non venga venduta.
 ---
