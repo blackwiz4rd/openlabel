@@ -1,14 +1,13 @@
 ---
-title: Software per ridurre gli sprechi
-subtitle: Google Sheets Gestionale per il Workflow degli sprechi
+title: Etichetta smart
+subtitle: ELS antispreco
 layout: default
 modal-id: 2
-date: 2020-10-20
+date: 2020-10-21
 img: https://static.wixstatic.com/media/471a7c_f0363f6c93df4f55a6eb8367b4aafd96~mv2.gif
 thumbnail: https://static.wixstatic.com/media/471a7c_f0363f6c93df4f55a6eb8367b4aafd96~mv2.gif
 alt: image-alt
 project-date: October 2020
 category: Prodotto
-description: Funzionale, innovativo e scalabile per etichette elettroniche.
-Sviluppato interamente su Piattaforma Cloud.
+description: La nostra etichetta aggiorna il suo prezzo al variare della curva di acquisto degli utenti. I prezzi possono variare ed essere ridotti per evitare che la merce non venga venduta.
 ---
