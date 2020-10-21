@@ -11,8 +11,4 @@ project-date: October 2020
 category: Prodotto
 description: Funzionale, innovativo e scalabile per etichette elettroniche.
 Sviluppato interamente su Piattaforma Cloud.
-Il prezzo finale del prodotto è calcolato sulla base di uno speciale
-algoritmo per minimizzare gli sprechi e massimizzare le vendite.
-Indirizza le scelte strategiche di Sostenibilità Ambientale, Sostenibilità Sociale e Sostenibilità Economica.
-Si propone anche come strumento di marketing diretto al consumatore, attraverso il quale comunicare in modo chiaro e immediato gli sforzi intrapresi a livello di Sostenibilità.
 ---
