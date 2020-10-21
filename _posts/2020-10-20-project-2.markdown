@@ -4,8 +4,8 @@ subtitle: Gestionale contro gli sprechi
 layout: default
 modal-id: 2
 date: 2020-10-21
-img: {{ site.baseurl }}/img/portfolio/software.jpg
-thumbnail: {{ site.baseurl }}/img/portfolio/software.jpg
+img: img/portfolio/software.jpg
+thumbnail: img/portfolio/software.jpg
 alt: image-alt
 project-date: October 2020
 category: Prodotto
