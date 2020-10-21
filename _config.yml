@@ -13,56 +13,38 @@ people:
   pic: 1
   position: Information and Communication Technology
   social:
-    - title: twitter
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/luca-attanasio/
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/luca.attanasio96
 
 - name: Edoardo Chiocchi
   pic: 2
   position: Psicologia di Comunità
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/edoardo-chiocchi-71a5a119a/
 
 - name: Francesca Giovanetti
   pic: 3
   position: Medicina
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/francesca.giovanetti.33
 
 - name: Erika Grappiglia
   pic: 4
   position: Giurisprudenza
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://www.facebook.com/erika.grappiglia
 
 - name: Pierfrancesco Golinelli
   pic: 5
   position: Ingegnere meccanico
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/pier-francesco-goli/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
