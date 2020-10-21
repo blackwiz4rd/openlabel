@@ -4,8 +4,8 @@ subtitle: Google Sheets Gestionale per il Workflow degli sprechi
 layout: default
 modal-id: 1
 date: 2020-10-21
-img: /img/portfolio/software.jpg
-thumbnail: /img/portfolio/software.jpg
+img: https://static.wixstatic.com/media/471a7c_f0363f6c93df4f55a6eb8367b4aafd96~mv2.gif
+thumbnail: https://static.wixstatic.com/media/471a7c_f0363f6c93df4f55a6eb8367b4aafd96~mv2.gif
 alt: image-alt
 project-date: October 2020
 category: Prodotto
